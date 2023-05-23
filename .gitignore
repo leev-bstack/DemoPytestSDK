@@ -8,3 +8,5 @@ browserstack.err
 output.json
 pytest_html_report.html
 External Libraries
+.idea
+__pycache__
