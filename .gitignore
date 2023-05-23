@@ -1,0 +1,10 @@
+local.log
+screenshots
+log/
+browserstack.err
+**/.DS_Store
+.vscode/
+.env
+output.json
+pytest_html_report.html
+External Libraries
